@@ -12,4 +12,10 @@ A collection of frontend effects.
 
 ## select 选择类
 
-* online-charge 一个网上服务在线充值的模板
+* online-charge 一个网上服务在线充值的模板，可选择套餐
+* taobao-purchase 原生js仿淘宝购买商品种类选择
+
+## mouse 鼠标动态类
+
+* svg-mouse-direction-sensitive SVG鼠标经过方向感知3D动画特效
+* hover-button-expand-menu 鼠标滑过按钮展开CSS3动画特效
